@@ -1,7 +1,7 @@
 ## **iFrogLab ArBle**
 This project combines the brains of a Raspberry Pi with the brawn of an Arduino.  [Read more about the iFrogLab ArBle here.](http://www.iFrogLab.com)
 
-![Picture](iFrogLabArBle_Logo_3 copy.jpg)
+![Picture](iFrogLabArBle_Logo_3.jpg)
 
 These files have been made available online through a [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.
 
@@ -29,7 +29,7 @@ The board firmware is made in Arduino in order to make it super-hackable.  The f
 The board supports most of the Arduino sensors and shields and can interact with the Raspberry Pi via I2C and Serial and SPI is used for code burning.
 
 ## Pin Description
-![ iFrogLab ArBle Upload ](iFrogLabArBle_hardware_description.png)
+![ iFrogLab ArBle Upload ](iFrogLabArble_hardware_description.png)
 
 ## Uploading the Code to iFrogLab ArBle
 Select the programmer as "Raspberry Pi GPIO"and Use CTRL + Shift + U to Upload the Code to the iFrogLab ArBle
