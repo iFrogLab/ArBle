@@ -1,5 +1,5 @@
 ## **iFrogLab ArBle**
-This project combines the brains of a Raspberry Pi with the brawn of an Arduino.  [Read more about the iFrogLab ArBle here.](http://www.iFrogLab.com)
+This project combines the brains of a Raspberry Pi with the brawn of an Arduino and Bluetooth 4.0 Ble.  [Read more about the iFrogLab ArBle here.](http://www.iFrogLab.com)
 
 ![Picture](iFrogLabArble_Logo_4.jpg)
 
